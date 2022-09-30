@@ -1,0 +1,29 @@
+
+body {
+    display: grid;
+    grid-template-areas: 
+    'nav nav nav ',
+    'header header header',
+    'main main main',
+    'footer footer footer';
+}
+
+nav {
+    grid-area: nav;
+}
+
+main {
+    grid-area: main;
+}
+
+header{
+    grid-area: header;
+}
+
+footer {
+    grid-area: footer;
+}
+
+nav,main,header,footer {
+    background-color: rgb(5, 177, 245);
+}
