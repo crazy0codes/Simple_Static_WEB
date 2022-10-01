@@ -1,3 +1,6 @@
+*{
+    color: white;
+}
 .body{
     background-color: black;
 }
@@ -24,4 +27,22 @@ nav {
 }
 span {
     color: red;
+}
+a.navv {
+    text-decoration: none;
+    font-size: 19px;
+    color: white;
+    font-weight: 500;
+}
+a.navv:hover{
+    color: rgb(137, 248, 1);
+}
+.image{
+    margin-top: -122px;
+}
+img {
+    height: 550px;
+}
+.about {
+    width: 550px;
 }
