@@ -1,4 +1,4 @@
-/**{
+*{
     color: white;
 }
 .body{
@@ -78,5 +78,8 @@ img {
     .nav_list{
         margin-right: auto;
     }
+    .about_para {
+        margin: auto 50px auto 50px;
+        max-height: auto;
+    }
 }
-*/
