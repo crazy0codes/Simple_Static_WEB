@@ -8,4 +8,4 @@ ReactDom.render(
     heading,
 
     document.getElementById('react-container')
-)
+);
